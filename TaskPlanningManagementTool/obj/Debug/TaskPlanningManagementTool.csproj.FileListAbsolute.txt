@@ -1,0 +1,10 @@
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\bin\Debug\TaskPlanningManagementTool.exe.config
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\bin\Debug\TaskPlanningManagementTool.exe
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\bin\Debug\TaskPlanningManagementTool.pdb
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.CreateTaskTypePanel.resources
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.Form1.resources
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.Properties.Resources.resources
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.csproj.GenerateResource.Cache
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.exe
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.pdb
+c:\users\zhanghui\documents\visual studio 2017\Projects\TaskPlanningManagementTool\TaskPlanningManagementTool\obj\Debug\TaskPlanningManagementTool.csprojResolveAssemblyReference.cache
